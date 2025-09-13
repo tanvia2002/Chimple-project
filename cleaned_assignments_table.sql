@@ -14,3 +14,4 @@ END;
 
 select * from assignments
 where assignment_status="Invalid";
+
